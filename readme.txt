@@ -8,3 +8,4 @@ creating a new branch is quick & simple.
 creating a new branch is quick and simple.
 >>>>>>> fea
 creating a new branch is quick AND simple.
+modify this file.
