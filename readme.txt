@@ -9,3 +9,5 @@ creating a new branch is quick and simple.
 >>>>>>> fea
 creating a new branch is quick AND simple.
 modify this file.
+
+add a dev.
